@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.118be9e0.chunk.css",
+    "main.js": "/static/js/main.a9f6619d.chunk.js",
+    "main.js.map": "/static/js/main.a9f6619d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b81a4b1d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b81a4b1d.js.map",
+    "static/css/2.b1119605.chunk.css": "/static/css/2.b1119605.chunk.css",
+    "static/js/2.5dfaf8f3.chunk.js": "/static/js/2.5dfaf8f3.chunk.js",
+    "static/js/2.5dfaf8f3.chunk.js.map": "/static/js/2.5dfaf8f3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e8841f9eec1d9fa0d9bfc081db71ca86.js": "/precache-manifest.e8841f9eec1d9fa0d9bfc081db71ca86.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b1119605.chunk.css.map": "/static/css/2.b1119605.chunk.css.map",
+    "static/css/main.118be9e0.chunk.css.map": "/static/css/main.118be9e0.chunk.css.map",
+    "static/media/style.css": "/static/media/Muli-Regular.fe82d4be.ttf",
+    "static/media/NubeseliteLogo1.png": "/static/media/NubeseliteLogo1.bff3b2fa.png",
+    "static/media/Ukrainian.svg": "/static/media/Ukrainian.9ae183c2.svg",
+    "static/media/development.png": "/static/media/development.e51a59f1.png",
+    "static/media/happiest-minds-logo-1.jpg": "/static/media/happiest-minds-logo-1.00eafc9c.jpg",
+    "static/media/courses.css": "/static/media/header.8ddfb248.jpg",
+    "static/media/main_styles.css": "/static/media/skills.f7c2ea36.jpg",
+    "static/media/course.css": "/static/media/indoor.6ab137c5.jpg",
+    "static/media/instructors.css": "/static/media/midsection.dec41f79.jpg",
+    "static/media/lightening.jpg": "/static/media/lightening.7af9017b.jpg",
+    "static/media/salesforce-admin-and-development.jpg": "/static/media/salesforce-admin-and-development.a5f8893d.jpg",
+    "static/media/salesforce-admin.jpg": "/static/media/salesforce-admin.bd6401f0.jpg",
+    "static/media/tmdbgreen.svg": "/static/media/tmdbgreen.27b65cb4.svg"
+  }
+}
